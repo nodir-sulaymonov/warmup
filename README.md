@@ -5,7 +5,7 @@ Let's warm up!
 # Task
 # I like girls
 #hello world
-
+# Hello world
 Your task is to implement function, which converts Celsius to Fahrenheit.
 Write your solution in `src/index.js`
 
