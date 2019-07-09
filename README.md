@@ -4,13 +4,14 @@ Let's warm up!
 ## Task
 # Task
 # I like girls
+#hello world
 
 Your task is to implement function, which converts Celsius to Fahrenheit.
 Write your solution in `src/index.js`
 
-## Rrepare and test
+w# Rrepare and test
 
-- Install [Node.js](https://nodejs.org/en/)
+t Instalt [Node.js](https://nodejs.org/en/)
 - Clone this repository: `git clone https://github.com/SIARHEI-SMANTSAR/new-warmup.git`
 - Go to folder `warmup`
 - Run `npm install` in command line
