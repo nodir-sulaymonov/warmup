@@ -3,7 +3,6 @@ Let's warm up!
 ###Somebody
 ## Task
 # Task
-# I like girls
 #hello world
 # Hello world
 Your task is to implement function, which converts Celsius to Fahrenheit.
